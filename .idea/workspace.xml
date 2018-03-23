@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90229d72-d2bf-4133-9734-1cab5ef30391" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/src/settings/production.py" />
-      <change type="MOVED" beforePath="C:\Users\vaibhav2\PycharmProjects\MajorProject\src\src\settings.py" afterPath="$PROJECT_DIR$/src/src/old_settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/db.sqlite3" afterPath="$PROJECT_DIR$/src/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lib/site-packages/django/core/management/commands/diffsettings.py" afterPath="$PROJECT_DIR$/Lib/site-packages/django/core/management/commands/diffsettings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lib/site-packages/django/conf/locale/de/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/Lib/site-packages/django/conf/locale/de/LC_MESSAGES/django.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/settings/local.py" afterPath="$PROJECT_DIR$/src/src/settings/local.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/settings/production.py" afterPath="$PROJECT_DIR$/src/src/settings/production.py" />
     </list>
     <ignored path="Crypter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,8 +93,8 @@
       <file leaf-file-name="production.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/settings/production.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="2873">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="87" />
+            <state vertical-scroll-proportion="-3.574074" vertical-offset="300" max-vertical-offset="2873">
+              <caret line="29" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,8 +103,8 @@
       <file leaf-file-name="local.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/src/settings/local.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57781756" vertical-offset="0" max-vertical-offset="2873">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.881932" vertical-offset="0" max-vertical-offset="2873">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1180,16 +1176,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/settings/production.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="2873">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="87" />
+        <state vertical-scroll-proportion="-3.574074" vertical-offset="300" max-vertical-offset="2873">
+          <caret line="29" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/settings/local.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57781756" vertical-offset="0" max-vertical-offset="2873">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.881932" vertical-offset="0" max-vertical-offset="2873">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
