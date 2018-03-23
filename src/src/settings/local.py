@@ -26,7 +26,7 @@ SECRET_KEY = 'iyt@pj907681*3@wcahunqsfun6)_x#lu4p8nyi*t1zy-ert7&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crypter1.herokuapp.com']
 #'https://api.coinmarketcap.com/v1/ticker/']
 
 
